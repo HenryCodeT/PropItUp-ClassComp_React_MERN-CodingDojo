@@ -1,6 +1,6 @@
 # Prop It Up
 ### Class Components - React - MERN
-### Create a component PersonCardthat accepts the following properties: 
+### Create a component PersonCard that accepts the following properties: 
 * ```firstName```
 * ```lastName```
 * ```age```
